@@ -1,5 +1,9 @@
 # 🌤️ Atmosphere - Weather App
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://weather-vista-vert.vercel.app/)
+
+🔗 **Live Demo**: [https://weather-vista-vert.vercel.app/](https://weather-vista-vert.vercel.app/)
+
 A fast, responsive, and minimalist Weather Application built with **React 19**, **Vite**, and **OpenWeatherMap API**. Features instant location search via geocoding, real-time weather metrics, and dynamic light/dark theme switching powered by React Context.
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
